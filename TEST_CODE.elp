@@ -1,0 +1,5 @@
+var Var -> 123.23;
+out <- Var;
+out <- 'H%@#GSDSA';
+var HECK -> True;
+out <- HECK;
